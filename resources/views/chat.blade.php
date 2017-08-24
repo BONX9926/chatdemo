@@ -17,6 +17,7 @@
         <chat-composer v-on:messagesent="addMessage"></chat-composer>
         <!-- <chat-message></chat-message> -->
     </div>
+    
     <script src="js/app.js" charset="utf-8"></script>
 </body>
 
